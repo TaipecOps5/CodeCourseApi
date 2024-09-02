@@ -1,5 +1,6 @@
 {
 	"name": "package.json",
+	"author": "Rubywoo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -16,10 +17,6 @@
 	"keywords": [
 		"package"
 	],
-	"author": "Rubywoo",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
-	},
+	
 	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
